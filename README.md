@@ -1,5 +1,5 @@
 🫁 Pneumonia Detection using Deep Learning
-📌 Project Overview
+📌Project Overview
 This project focuses on automatic pneumonia detection from chest X-ray images using deep learning models. We built and evaluated state-of-the-art architectures to identify the most reliable model for medical image classification.
 
 🧠Models Used:
