@@ -26,7 +26,7 @@ Model Evaluation
 Evaluated models using accuracy
 Compared performance to select the best architecture
 
-📊Results:
+📊Results:zxcz
 DenseNet121 and ViT models were analyzed and compared
 The model with higher accuracy was selected as the most reliable for pneumonia detection
 
