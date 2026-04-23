@@ -12,7 +12,7 @@ Programming Language: Python
 Deep Learning Framework: TensorFlow / Keras
 Libraries: NumPy, Pandas, Matplotlib, OpenCV
 
-🔄 Workflow: 1
+🔄 Workflow: 
 Data Preprocessing
 Image resizing and normalization
 Label encoding
